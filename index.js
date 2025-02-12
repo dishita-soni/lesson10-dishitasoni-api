@@ -20,7 +20,7 @@ app.use(
     // EXERCISE 4.7
     origin: [
       "https://localhost:3000",
-      "https://cfa-winter2025-dishitasoni-www.netlify.app/",
+      "https://cfa-winter2025-dishitasoni-www.netlify.app",
     ],
     credentials: true,
   })
